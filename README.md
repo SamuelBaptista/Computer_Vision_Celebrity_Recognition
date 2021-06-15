@@ -1,6 +1,5 @@
 # face-recognition
-Computer vision model to recognize celebrities.
+Rede neural treinada para reconhecimento de artistas.
 
-You can access the notebook with the project here:
-
+Você pode acessar o notebook com o projeto aqui:
 https://samuelbaptista.github.io/face-recognition/
